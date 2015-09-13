@@ -1,5 +1,6 @@
 # What
 It is a patched for powerline version of gnu unifont
+![unifont-powerline](https://cloud.githubusercontent.com/assets/8576745/9835984/7432bab2-5a1e-11e5-9d03-2b8406a330ba.png)
 
 # Usage
 
